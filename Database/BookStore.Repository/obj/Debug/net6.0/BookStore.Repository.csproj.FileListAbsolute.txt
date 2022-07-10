@@ -1,0 +1,30 @@
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll
